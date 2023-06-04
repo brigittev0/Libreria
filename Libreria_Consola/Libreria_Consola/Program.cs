@@ -11,7 +11,7 @@ namespace Libreria_Consola
     {
         static void Main(string[] args)
         {
-            string connectionString = "DESKTOP-RPPC58U\\SQLEXPRESS;Database=libreria_cf";
+            string connectionString = "Server=DESKTOP-RPPC58U\\SQLEXPRESS;Database=libreria_cf;Trusted_Connection=True;";
 
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
