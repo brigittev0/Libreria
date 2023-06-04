@@ -1,0 +1,8 @@
+D:\LIBRERIA\Libreria_Consola\Libreria_Consola\bin\Debug\Libreria_Consola.exe.config
+D:\LIBRERIA\Libreria_Consola\Libreria_Consola\bin\Debug\Libreria_Consola.exe
+D:\LIBRERIA\Libreria_Consola\Libreria_Consola\bin\Debug\Libreria_Consola.pdb
+D:\LIBRERIA\Libreria_Consola\Libreria_Consola\obj\Debug\Libreria_Consola.csproj.AssemblyReference.cache
+D:\LIBRERIA\Libreria_Consola\Libreria_Consola\obj\Debug\Libreria_Consola.csproj.SuggestedBindingRedirects.cache
+D:\LIBRERIA\Libreria_Consola\Libreria_Consola\obj\Debug\Libreria_Consola.csproj.CoreCompileInputs.cache
+D:\LIBRERIA\Libreria_Consola\Libreria_Consola\obj\Debug\Libreria_Consola.exe
+D:\LIBRERIA\Libreria_Consola\Libreria_Consola\obj\Debug\Libreria_Consola.pdb
